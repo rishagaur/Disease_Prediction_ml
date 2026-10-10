@@ -29,7 +29,7 @@ Machine learning internship project (CodeAlpha, Task 4). The goal is to predict 
 ## How to run
 ## How to run
 1. Open [Disease_Prediction.ipynb](Disease_Prediction.ipynb) in Google Colab, or click here: [Open in Colab](https://colab.research.google.com/github/rishagaur/Disease_Prediction_ml/blob/main/DiseasePrediction.ipynb)
-2. Upload the datasets [heart.csv](heart.csv) and [diabetes.csv](diabetes.csv) into the Colab files area (the `content` folder).
+2. Upload the datasets [HeartDiseaseTrain-Test.csv](HeartDiseaseTrain-Test.csv) and [diabetes.csv](diabetes.csv) into the Colab files area (the `content` folder).
 3. Click Runtime > Run all.
 ## Tools
 Python, pandas, scikit-learn, XGBoost, Google Colab
