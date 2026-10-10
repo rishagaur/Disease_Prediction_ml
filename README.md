@@ -27,10 +27,10 @@ Machine learning internship project (CodeAlpha, Task 4). The goal is to predict 
 - On diabetes, recall for diabetic patients was about 0.61, so some cases were missed. Class weighting or more features could improve this.
 
 ## How to run
-1. Open `Disease_Prediction.ipynb` in Google Colab.
-2. Upload `heart.csv` and `diabetes.csv` into the Colab files area (the `content` folder).
+## How to run
+1. Open [DiseasePrediction.ipynb](DiseasePrediction.ipynb) in Google Colab, or click here: [Open in Colab](https://colab.research.google.com/github/rishagaur/Disease_Prediction_ml/blob/main/DiseasePrediction.ipynb)
+2. Upload the datasets [HeartDiseaseTrain-Test.csv](HeartDiseaseTrain-Test.csv) and [diabetes.csv](diabetes.csv) into the Colab files area (the `content` folder).
 3. Click Runtime > Run all.
-
 ## Tools
 Python, pandas, scikit-learn, XGBoost, Google Colab
 
